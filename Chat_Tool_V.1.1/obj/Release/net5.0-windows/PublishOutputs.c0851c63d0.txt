@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Whatsapp\Chat_Tool_V.1.1\bin\Release\net5.0-windows\publish\Chat_Tool_V.1.1.exe
+\\Mac\Home\Documents\Whatsapp\Chat_Tool_V.1.1\bin\Release\net5.0-windows\publish\Chat_Tool_V.1.1.dll
+\\Mac\Home\Documents\Whatsapp\Chat_Tool_V.1.1\bin\Release\net5.0-windows\publish\Chat_Tool_V.1.1.deps.json
+\\Mac\Home\Documents\Whatsapp\Chat_Tool_V.1.1\bin\Release\net5.0-windows\publish\Chat_Tool_V.1.1.runtimeconfig.json
+\\Mac\Home\Documents\Whatsapp\Chat_Tool_V.1.1\bin\Release\net5.0-windows\publish\Chat_Tool_V.1.1.pdb
